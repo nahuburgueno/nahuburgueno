@@ -10,6 +10,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
 [![Gulp](https://img.shields.io/badge/Gulp-red?style=for-the-badge&logo=gulp&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
 
 
 ## Find me at:
