@@ -17,5 +17,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel_Burgueño-44a3f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nahuelburgueño/)
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/Gmail-nahuelburge@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nahuelburge@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-nahuelburge@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=nahuelburge@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel_Burgueño-44a3f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nahuelburgueño/)
