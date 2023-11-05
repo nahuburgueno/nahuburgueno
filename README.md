@@ -21,4 +21,4 @@
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel_Burgueño-44a3f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nahuelburgueño/)
 <br>
-[![Web](https://img.shields.io/badge/Web-Mi_Pagina_Web-44a3f1?style=for-the-badge&logo=Web&logoColor=white&labelColor=101010)](https://mipaginawebnburgueno.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Web-Mi_Pagina_Web-44a3f1?style=for-the-badge&logo=Web&logoColor=white&labelColor=101010)](https://mipaginawebnburgueno.netlify.app)
